@@ -8,7 +8,7 @@
             "authProviderType": "google_credentials",
             "oauth": {
                 "scopes": [
-                    "https://www.googleapis.com/auth/cloud_platform"
+                    "https://www.googleapis.com/auth/cloud-platform"
                 ]
             },
             "headers": {
